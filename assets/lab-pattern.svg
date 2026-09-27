@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <g fill="none" stroke="#A9D3EE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <!-- flask with face -->
+    <g transform="translate(60 105) rotate(-10)">
+      <path d="M-23.5 -14 L-37 -4 Q-40 0 -35 0 H35 Q40 0 37 -4 L23.5 -14 Z" fill="#CDEBFA" stroke="none"/>
+      <path d="M-9 -55 V-25 L-37 -4 Q-40 0 -35 0 H35 Q40 0 37 -4 L9 -25 V-55 M-13 -56 H13"/>
+      <circle cx="-7" cy="-8" r="1.8" fill="#7FB3D8" stroke="none"/>
+      <circle cx="7" cy="-8" r="1.8" fill="#7FB3D8" stroke="none"/>
+      <path d="M-4 -4 Q0 -1 4 -4" stroke="#7FB3D8" stroke-width="2"/>
+    </g>
+    <!-- test tube -->
+    <g transform="translate(180 80) rotate(18)">
+      <path d="M8 -8 A8 8 0 0 1 -8 -8 V-30 H8 Z" fill="#CFEFE3" stroke="none"/>
+      <path d="M-8 -60 V-8 A8 8 0 0 0 8 -8 V-60 M-11 -60 H11"/>
+    </g>
+    <!-- beaker with face -->
+    <g transform="translate(165 205) rotate(6)">
+      <path d="M-22 -22 H22 V-5 Q22 0 17 0 H-17 Q-22 0 -22 -5 Z" fill="#FBEBC0" stroke="none"/>
+      <path d="M-26 -48 L-22 -44 V-5 Q-22 0 -17 0 H17 Q22 0 22 -5 V-48"/>
+      <circle cx="-6" cy="-12" r="1.8" fill="#D9B45A" stroke="none"/>
+      <circle cx="6" cy="-12" r="1.8" fill="#D9B45A" stroke="none"/>
+      <path d="M-3.5 -8 Q0 -5 3.5 -8" stroke="#D9B45A" stroke-width="2"/>
+    </g>
+    <!-- bubbles -->
+    <circle cx="62" cy="30" r="5"/>
+    <circle cx="74" cy="14" r="3"/>
+    <circle cx="205" cy="150" r="4"/>
+    <circle cx="110" cy="160" r="3"/>
+    <circle cx="128" cy="30" r="3"/>
+  </g>
+  <!-- hearts -->
+  <path transform="translate(45 185) scale(1.1)" d="M0 4 C-10 -4 -6 -12 0 -7 C6 -12 10 -4 0 4 Z" fill="#F7C9D3"/>
+  <path transform="translate(225 20) scale(.8)" d="M0 4 C-10 -4 -6 -12 0 -7 C6 -12 10 -4 0 4 Z" fill="#F7C9D3"/>
+</svg>
